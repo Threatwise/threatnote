@@ -6,7 +6,7 @@ Check out the docs at https://docs.threatnote.io/ to get started!
 ## Quick Start
 First you'll want to clone the threatnote.io repo
 ```
-$ git clone git@github.com:brianwarehime/threatnote.git 
+$ git clone https://github.com/Threatwise/threatnote.git 
 $ cd threatnote/threatnote
 $ cp env_example env
 $ vi env (change the secret key)
